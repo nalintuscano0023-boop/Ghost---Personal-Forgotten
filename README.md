@@ -73,13 +73,7 @@ Ghost was created as part of GitHub Copilot Day using the GitHub Copilot app for
 
 GitHub Copilot was used during development to help turn the Ghost concept and specification into a working frontend application. The resulting application uses deterministic local logic rather than an external AI model.
 
-## Development Evidence
 
-A genuine screenshot of the GitHub Copilot development session is available in:
-
-```text
-proof/github-copilot-development-proof.png
-```
 
 ## Project Structure
 
